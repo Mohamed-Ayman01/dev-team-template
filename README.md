@@ -1,13 +1,19 @@
 # ISAMA Dev TeamTemplate
 
-> A Simple HTML5 Template
+### Features
 
-> No Javascript
+- A Simple HTML5 Template
 
-> Nice 3d Effect On Icons
+- No Javascript
+
+- Nice 3d Effect On Icons
 
 ### Used Technologies
 
-> HTML5
+- HTML5
 
-> CSS3
+- CSS3
+
+___
+
+### [View Live](https://mohamed-ayman01.github.io/devTeam-Template/)
